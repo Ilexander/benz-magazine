@@ -1,0 +1,66 @@
+{
+  "trade_in": [
+    {
+      "mark": "Mercedes-Benz",
+      "model": "Mercedes-Benz E Class",
+      "year": "1996",
+      "phone": "+38 (096)-954-61-33",
+      "id": 1
+    },
+    {
+      "mark": "Mercedes-Benz",
+      "model": "Mercedes-Benz A Class",
+      "year": "2020",
+      "phone": "+38 (078)-512-31-22",
+      "id": 2
+    },
+    {
+      "mark": "Mercedes-Benz",
+      "model": "Mercedes-Benz A Class",
+      "year": "2012",
+      "phone": "+38 (096)-954-65-13",
+      "id": 3
+    },
+    {
+      "mark": "Mercedes-Benz",
+      "model": "Mercedes-Benz C Class",
+      "year": "2012",
+      "phone": "+38 (054)-354-35-34",
+      "id": 4
+    },
+    {
+      "mark": "Mercedes-Benz",
+      "model": "Mercedes-Benz E Class",
+      "year": "3000",
+      "phone": "+38 (054)-435-43-54",
+      "id": 5
+    }
+  ],
+  "credit": [
+    {
+      "credit_name": "Александр",
+      "credit_phone": "+38 (096)-954-61-33",
+      "id": 1
+    },
+    {
+      "credit_name": "Бебра",
+      "credit_phone": "+38 (043)-543-53-45",
+      "id": 2
+    },
+    {
+      "credit_name": "Бобр",
+      "credit_phone": "+38 (032)-131-23-21",
+      "id": 3
+    },
+    {
+      "credit_name": "Виталий",
+      "credit_phone": "+38 (054)-354-35-34",
+      "id": 4
+    },
+    {
+      "credit_name": "Алексей",
+      "credit_phone": "+38 (043)-243-24-23",
+      "id": 5
+    }
+  ]
+}
